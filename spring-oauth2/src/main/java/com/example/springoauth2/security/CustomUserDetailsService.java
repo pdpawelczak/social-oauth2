@@ -1,7 +1,7 @@
 package com.example.springoauth2.security;
 
 import com.example.springoauth2.exception.ResourceNotFoundException;
-import com.example.springoauth2.model.User;
+import com.example.springoauth2.domain.User;
 import com.example.springoauth2.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;

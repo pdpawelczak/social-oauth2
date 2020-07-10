@@ -1,4 +1,4 @@
-package com.example.springoauth2.model;
+package com.example.springoauth2.domain;
 
 public enum AuthProvider {
     LOCAL,

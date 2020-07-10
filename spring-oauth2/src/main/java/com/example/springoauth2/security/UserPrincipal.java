@@ -1,6 +1,6 @@
 package com.example.springoauth2.security;
 
-import com.example.springoauth2.model.User;
+import com.example.springoauth2.domain.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
